@@ -1,1 +1,1 @@
-# Hyperspectral-image-visualization-based-on-MPCNN
+# Multichannel Pulse-Coupled Neural Network-Based Hyperspectral Image Visualization
