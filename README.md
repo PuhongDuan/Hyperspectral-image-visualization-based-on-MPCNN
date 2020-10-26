@@ -1,5 +1,8 @@
 # Matlab Code for Multichannel Pulse-Coupled Neural Network-Based Hyperspectral Image Visualization
 
+# Usage
+run demo.m in Matlab
+
 # If you use this code, please cite this work as follows:
 @ARTICLE{8907846,
   author={P. {Duan} and X. {Kang} and S. {Li} and P. {Ghamisi}},
