@@ -1,5 +1,6 @@
-# Multichannel Pulse-Coupled Neural Network-Based Hyperspectral Image Visualization
-If you use this code, please cite this work as follows:
+# Matlab Code for Multichannel Pulse-Coupled Neural Network-Based Hyperspectral Image Visualization
+
+# If you use this code, please cite this work as follows:
 @ARTICLE{8907846,
   author={P. {Duan} and X. {Kang} and S. {Li} and P. {Ghamisi}},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
