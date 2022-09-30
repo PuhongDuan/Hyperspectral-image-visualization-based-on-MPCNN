@@ -1,8 +1,12 @@
 # Matlab Code for Multichannel Pulse-Coupled Neural Network-Based Hyperspectral Image Visualization
 
-# Usage
-run demo.m in Matlab
+[Puhong Duan](https://scholar.google.ch/citations?hl=en&user=IYUlx_8AAAAJ&view_op=list_works&sortby=pubdate), [Xudong Kang](https://scholar.google.ch/citations?user=5XOeLZYAAAAJ&hl=en), [Shutao Li](https://scholar.google.ch/citations?user=PlBq8n8AAAAJ&hl=en), [Pedram Ghamisi](https://scholar.google.ch/citations?user=Gr9afd0AAAAJ&hl=en)
 
+___________
+
+The code in this toolbox implements the ["Multichannel Pulse-Coupled Neural Network-Based Hyperspectral Image Visualization"](https://ieeexplore.ieee.org/document/8907846). More specifically, it is detailed as follow.
+
+![alt text](./a.jpg)
 
 Citation
 ---------------------
@@ -21,3 +25,6 @@ P. Duan, X. Kang, S. Li and P. Ghamisi, "Multichannel Pulse-Coupled Neural Netwo
       year      = {2020},
       publisher = {IEEE}
      }
+
+# Usage
+run demo.m in Matlab
